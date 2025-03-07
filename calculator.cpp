@@ -11,7 +11,7 @@
 
 /* 결과창과 결과값 */
 static HWND hWndResult; // 결과 창
-extern int result = 0;  // 결과 값 (다른 소스파일과 공유됨)
+extern int result;  // 결과 값 (다른 소스파일과 공유됨)
 
 /* 버튼별 상태, 글자색, 배경색 */
 static char buttonState[BUTTON_COUNT];          // 버튼 상태
