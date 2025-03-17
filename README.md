@@ -64,3 +64,7 @@ int c = 'a'; /* 'a'는 문자 a에 해당하는 정수 값을 의미합니다 */
 > ... In source files, there shall be some way of indicating the end of each line of text;
 > ... In execution character set, there shall be control characters representing alert, backspace, carriage return, and new line.
 > If any other characters are encountered in a source file (except in a preprocessing token ... ), the behavior is undefined.
+
+[3.1.2.5 Types](https://port70.net/~nsz/c/c89/c89-draft.html#3.1.2.5)
+> ... If a member of the required source character set enumerated in 2.2.1 is ... guranteed to be positive.
+> ... values are treated as ... integers. 
