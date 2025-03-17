@@ -10,7 +10,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{56298b6a-7bcc-4ad5-857c-3ae51b8ca9fa}</ProjectGuid>
-    <RootNamespace>ProjectCharacterConstants</RootNamespace>
+    <RootNamespace>ProjectEscapeSequence</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
